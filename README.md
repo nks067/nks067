@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello, World! My name is Nilesh - aka [nks067][github] 👋
+
+
+
+
+### 🤝 Connect with me
+
+[![nks067-naj | GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]  
+[![Nilesh Singh | LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]  
+[![nilesh-singh | Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stackoverflow] \
+[![Nilesh | Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]  
 
 <!--
 **nks067/nks067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
